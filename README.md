@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning [Next.js](https://nextjs.org/)
 - 👯 I’m looking to collaborate on Web Projects
 - 💬 Ask me about Anything
-- 📫 How to reach me on Insta: [@code.brew1](https://www.instagram.com/@code.brew1)
+- 📫 How to reach me on Insta: [@code.brew1](https://www.instagram.com/code.brew1/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: code
 
