@@ -3,7 +3,7 @@
 <!--
 **ansar062/ansar062** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🔭 I’m currently working on [`zippy-web`](https://github.com/Hamzakhvlid/Derma-AI).
+- 🔭 I’m currently working on [`Derma-AI`](https://github.com/Hamzakhvlid/Derma-AI).
 - 🌱 I’m currently learning [Next.js](https://nextjs.org/)
 - 👯 I’m looking to collaborate on Web Projects
 - 💬 Ask me about Anything
