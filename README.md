@@ -2,7 +2,7 @@
 
 ### About Me 👋
 
-- 🔭 I’m currently working on [`Trend Haven`]((https://github.com/ansar062/trend-haven)).
+- 🔭 I’m currently working on [`Trend Haven`](https://github.com/ansar062/trend-haven).
 - 🌱 I’m currently learning [Next.js](https://nextjs.org/)
 - 👯 I’m looking to collaborate on Web Projects
 - 💬 Ask me about Anything
