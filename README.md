@@ -2,11 +2,11 @@
 
 ### About Me 👋
 
-- 🔭 I’m currently working on [`Trend Haven`](https://github.com/ansar062/trend-haven).
+- 🔭 I’m currently working on [`MallShark`](https://mallshark.com).
 - 🌱 I’m currently learning [Next.js](https://nextjs.org/)
 - 👯 I’m looking to collaborate on Web Projects
 - 💬 Ask me about Anything
-- 📫 How to reach me on Insta: [@code.brew1](https://www.instagram.com/code.brew1/)
+- 📫 How to reach me on Insta: [@code.brew1](https://www.instagram.com/dev_ansar/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: code
 
@@ -39,9 +39,9 @@
 ## 🔗 Links
 
 [![youtube](https://img.shields.io/badge/youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@codebrew1)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codebrew1/)
-[![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](http://instagram.com/code.brew1/)
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://muhammad-ansar-portfolio.vercel.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ans4r/)
+[![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dev_ansar/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://muhammadansar.site/)
 
 
 ## 🛠 Skills
