@@ -7,7 +7,7 @@ I build AI, web and mobile products end to end: real-time voice AI agents on Liv
 ### 🔭 What I've been building
 
 - 🎙️ **Samajha** – real-time AI voice tutor (LiveKit Agents, Python, Next.js): voice-agent reliability, LLM grading evals, an LLM question-generation pipeline, Razorpay subscriptions
-- 🏭 **MR-ERP** – manufacturing ERP: Expo / React Native app (121 screens, Android 1.1.0) on a Laravel 13 + PostgreSQL API
+- 🏭 **MR-ERP** – manufacturing ERP, web and mobile: item, asset and location management in the Next.js web app, plus 121 screens of the Expo / React Native app (Android 1.1.0), on a Laravel 13 + PostgreSQL API
 - 🩺 **VidaMoms** – postpartum health app with streamed Google Gemini insights (React Native, Laravel)
 - 🎮 **Formulate Robotics** – company website and a Three.js web game with an online leaderboard
 - 🛒 **MallShark** – multi-vendor marketplace web and mobile apps with Stripe and PayPal checkout
